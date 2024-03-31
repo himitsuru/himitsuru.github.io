@@ -1,0 +1,17 @@
+div {
+    color: aliceblue;
+}
+
+header{
+    color: aliceblue;
+}
+
+body{
+    background-image: url(images/top.jpg);
+    background-size: 1366px 768px;
+}
+
+/* main .hero figure img{
+    width: 100px;
+    height: 100px;
+} */
